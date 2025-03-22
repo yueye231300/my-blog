@@ -1,5 +1,5 @@
 baseURL = "https://yueye231300.github.io/my-blog/"
-title = "我的博客1"
+title = "我的博客"
 pagerSize = 5
 theme = "PaperMod"
 enableRobotsTXT = true
