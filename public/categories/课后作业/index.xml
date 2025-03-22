@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>我的博客</title>
-    <link>http://localhost:1313/my-blog/</link>
-    <description>Recent content on 我的博客</description>
+    <title>课后作业 on 我的博客</title>
+    <link>http://localhost:1313/my-blog/categories/%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A/</link>
+    <description>Recent content in 课后作业 on 我的博客</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Sat, 22 Mar 2025 04:55:50 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/my-blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/my-blog/categories/%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>我的文章标题</title>
       <link>http://localhost:1313/my-blog/posts/homework/hydraulic/homework-2/</link>
@@ -77,20 +77,6 @@
       &lt;/tr&gt;
   &lt;/tbody&gt;
 &lt;/table&gt;</description>
-    </item>
-    <item>
-      <title>My First Post</title>
-      <link>http://localhost:1313/my-blog/posts/my-first-post/</link>
-      <pubDate>Fri, 21 Mar 2025 23:39:32 +0800</pubDate>
-      <guid>http://localhost:1313/my-blog/posts/my-first-post/</guid>
-      <description>&lt;p&gt;hello world!&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/my-blog/posts/homework/hydraulic/homework2/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/my-blog/posts/homework/hydraulic/homework2/</guid>
-      <description></description>
     </item>
   </channel>
 </rss>
