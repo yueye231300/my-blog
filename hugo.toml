@@ -1,0 +1,54 @@
+baseURL = "https://yueye231300.github.io/my-blog/"
+title = "我的博客"
+pagerSize = 5
+theme = "PaperMod"
+enableRobotsTXT = true
+buildDrafts = false
+buildFuture = false
+buildExpired = false
+
+[minify]
+  disableXML = true
+  minifyOutput = true
+
+[params]
+  env = "production"
+  title = "我的博客"
+  description = "欢迎访问我的博客"
+  author = "yueye231300"
+  defaultTheme = "auto"
+  ShowShareButtons = true
+  ShowReadingTime = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+
+[params.homeInfoParams]
+  Title = "👋 欢迎来到我的博客"
+  Content = """
+这是我用 Hugo 和 PaperMod 主题创建的个人博客。
+
+- 在这里我将分享我的想法和经验。
+"""
+
+[[params.socialIcons]]
+  name = "github"
+  url = "https://github.com/yueye231300"
+
+[[menu.main]]
+  identifier = "categories"
+  name = "分类"
+  url = "/categories/"
+  weight = 10
+
+[[menu.main]]
+  identifier = "tags"
+  name = "标签"
+  url = "/tags/"
+  weight = 20
+
+[[menu.main]]
+  identifier = "archives"
+  name = "归档"
+  url = "/archives/"
+  weight = 30
