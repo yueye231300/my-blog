@@ -21,6 +21,7 @@ buildExpired = false
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
   ShowToc = true
+  math = true
 
 [params.homeInfoParams]
   Title = "👋 欢迎来到我的博客"

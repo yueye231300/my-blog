@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>我的博客</title>
-    <link>http://localhost:1313/my-blog/</link>
+    <link>https://yueye231300.github.io/my-blog/</link>
     <description>Recent content on 我的博客</description>
     <generator>Hugo -- 0.145.0</generator>
     <language>en</language>
     <lastBuildDate>Sat, 22 Mar 2025 04:55:50 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/my-blog/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://yueye231300.github.io/my-blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>我的文章标题</title>
-      <link>http://localhost:1313/my-blog/posts/homework/hydraulic/homework-2/</link>
+      <link>https://yueye231300.github.io/my-blog/posts/homework/hydraulic/homework-2/</link>
       <pubDate>Sat, 22 Mar 2025 04:55:50 +0000</pubDate>
-      <guid>http://localhost:1313/my-blog/posts/homework/hydraulic/homework-2/</guid>
+      <guid>https://yueye231300.github.io/my-blog/posts/homework/hydraulic/homework-2/</guid>
       <description>&lt;h1 id=&#34;河流动力学第二次作业&#34;&gt;河流动力学第二次作业&lt;/h1&gt;
 &lt;p&gt;Q1：绘制如下表所示泥沙颗粒的级配图，求d84.1；d15.9；d50;σg以及算术平均粒径dm&lt;/p&gt;
 &lt;table&gt;
@@ -76,20 +76,103 @@
           &lt;td&gt;0.16&lt;/td&gt;
       &lt;/tr&gt;
   &lt;/tbody&gt;
-&lt;/table&gt;</description>
+&lt;/table&gt;
+&lt;p&gt;以泥沙粒径为横坐标、小于某一粒径di 的泥沙质量百分比为纵坐标绘制泥沙颗粒级配图&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;d(mm)&lt;/th&gt;
+          &lt;th&gt;泥沙重量(kg)&lt;/th&gt;
+          &lt;th&gt;小于某一粒径的质量百分比&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;0.495&lt;/td&gt;
+          &lt;td&gt;0.36&lt;/td&gt;
+          &lt;td&gt;99.10%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;0.417&lt;/td&gt;
+          &lt;td&gt;1.52&lt;/td&gt;
+          &lt;td&gt;95.30%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;0.351&lt;/td&gt;
+          &lt;td&gt;4.32&lt;/td&gt;
+          &lt;td&gt;84.50%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;0.295&lt;/td&gt;
+          &lt;td&gt;7.4&lt;/td&gt;
+          &lt;td&gt;66.00%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;0.246&lt;/td&gt;
+          &lt;td&gt;8.8&lt;/td&gt;
+          &lt;td&gt;44.00%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;0.208&lt;/td&gt;
+          &lt;td&gt;7.04&lt;/td&gt;
+          &lt;td&gt;26.40%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;0.175&lt;/td&gt;
+          &lt;td&gt;4.56&lt;/td&gt;
+          &lt;td&gt;15.00%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;0.147&lt;/td&gt;
+          &lt;td&gt;2.88&lt;/td&gt;
+          &lt;td&gt;7.80%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;0.124&lt;/td&gt;
+          &lt;td&gt;1.52&lt;/td&gt;
+          &lt;td&gt;4.00%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;0.104&lt;/td&gt;
+          &lt;td&gt;0.8&lt;/td&gt;
+          &lt;td&gt;2.00%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;0.088&lt;/td&gt;
+          &lt;td&gt;0.44&lt;/td&gt;
+          &lt;td&gt;0.90%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;0.074&lt;/td&gt;
+          &lt;td&gt;0.2&lt;/td&gt;
+          &lt;td&gt;0.40%&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;盘&lt;/td&gt;
+          &lt;td&gt;0.16&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;总质量&lt;/td&gt;
+          &lt;td&gt;40&lt;/td&gt;
+          &lt;td&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;绘制泥沙颗粒级配图x轴为对数轴，y轴单位为%,得到结果&lt;/p&gt;</description>
     </item>
     <item>
       <title>My First Post</title>
-      <link>http://localhost:1313/my-blog/posts/my-first-post/</link>
+      <link>https://yueye231300.github.io/my-blog/posts/my-first-post/</link>
       <pubDate>Fri, 21 Mar 2025 23:39:32 +0800</pubDate>
-      <guid>http://localhost:1313/my-blog/posts/my-first-post/</guid>
+      <guid>https://yueye231300.github.io/my-blog/posts/my-first-post/</guid>
       <description>&lt;p&gt;hello world!&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/my-blog/posts/homework/hydraulic/homework2/</link>
+      <link>https://yueye231300.github.io/my-blog/posts/homework/hydraulic/homework2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/my-blog/posts/homework/hydraulic/homework2/</guid>
+      <guid>https://yueye231300.github.io/my-blog/posts/homework/hydraulic/homework2/</guid>
       <description></description>
     </item>
   </channel>

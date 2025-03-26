@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/my-blog/posts/</loc>
+    <loc>https://yueye231300.github.io/my-blog/posts/</loc>
     <lastmod>2025-03-22T04:55:50+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-blog/categories/</loc>
+    <loc>https://yueye231300.github.io/my-blog/categories/</loc>
     <lastmod>2025-03-22T04:55:50+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-blog/</loc>
+    <loc>https://yueye231300.github.io/my-blog/</loc>
     <lastmod>2025-03-22T04:55:50+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-blog/posts/homework/hydraulic/homework-2/</loc>
+    <loc>https://yueye231300.github.io/my-blog/posts/homework/hydraulic/homework-2/</loc>
     <lastmod>2025-03-22T04:55:50+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-blog/tags/</loc>
+    <loc>https://yueye231300.github.io/my-blog/tags/</loc>
     <lastmod>2025-03-22T04:55:50+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-blog/tags/%E6%B2%B3%E6%B5%81%E5%8A%A8%E5%8A%9B%E5%AD%A6/</loc>
+    <loc>https://yueye231300.github.io/my-blog/tags/%E6%B2%B3%E6%B5%81%E5%8A%A8%E5%8A%9B%E5%AD%A6/</loc>
     <lastmod>2025-03-22T04:55:50+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-blog/posts/homework/hydraulic/</loc>
+    <loc>https://yueye231300.github.io/my-blog/posts/homework/hydraulic/</loc>
     <lastmod>2025-03-22T04:55:50+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-blog/categories/%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A/</loc>
+    <loc>https://yueye231300.github.io/my-blog/categories/%E8%AF%BE%E5%90%8E%E4%BD%9C%E4%B8%9A/</loc>
     <lastmod>2025-03-22T04:55:50+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-blog/posts/homework/</loc>
+    <loc>https://yueye231300.github.io/my-blog/posts/homework/</loc>
     <lastmod>2025-03-22T04:55:50+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-blog/posts/my-first-post/</loc>
+    <loc>https://yueye231300.github.io/my-blog/posts/my-first-post/</loc>
     <lastmod>2025-03-21T23:39:32+08:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/my-blog/posts/homework/hydraulic/homework2/</loc>
+    <loc>https://yueye231300.github.io/my-blog/posts/homework/hydraulic/homework2/</loc>
   </url><url>
-    <loc>http://localhost:1313/my-blog/archives/</loc>
+    <loc>https://yueye231300.github.io/my-blog/archives/</loc>
   </url><url>
-    <loc>http://localhost:1313/my-blog/archives/</loc>
+    <loc>https://yueye231300.github.io/my-blog/archives/</loc>
   </url>
 </urlset>
