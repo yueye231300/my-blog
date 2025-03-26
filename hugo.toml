@@ -17,23 +17,18 @@ buildExpired = false
   description = "欢迎访问我的博客"
   author = "yueye231300"
   defaultTheme = "auto"
-  ShowShareButtons = true
   ShowReadingTime = true
   ShowBreadCrumbs = true
   ShowCodeCopyButtons = true
   ShowToc = true
+  math = true
 
 [params.homeInfoParams]
   Title = "👋 欢迎来到我的博客"
   Content = """
-这是我用 Hugo 和 PaperMod 主题创建的个人博客。
-
+这里主要用来存储我的作业和一些技术问题
 - 在这里我将分享我的想法和经验。
 """
-
-[[params.socialIcons]]
-  name = "github"
-  url = "https://github.com/yueye231300"
 
 [[menu.main]]
   identifier = "categories"
@@ -46,9 +41,15 @@ buildExpired = false
   name = "标签"
   url = "/tags/"
   weight = 20
-
+  
 [[menu.main]]
   identifier = "archives"
   name = "归档"
   url = "/archives/"
   weight = 30
+
+[[menu.main]]
+  identifier = "homework"
+  name = "课程作业"
+  url = "posts/homework/"
+  weight = 40
